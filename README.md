@@ -1,3 +1,9 @@
+We introduce Learnable-Feature Reservoir Computing, which discovers the appropriate readout nonlinearity from data within a low-dimensional, physics-informed dictionary.
+
+School of Physics and Electronic Science, East China Normal University, Shanghai 200062, China
+
+Contact: yzou@phy.ecnu.edu.cn
+
 # LF-NGRC code (compact submission package)
 
 Minimal package for reproducing the paper figures/tables: one merged
